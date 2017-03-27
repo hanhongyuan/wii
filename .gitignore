@@ -1,0 +1,6 @@
+/.idea/
+/spring_platform/target/
+/spring_platform/data/
+/spring_platform/.idea/
+*.iml
+*.DS_Store
